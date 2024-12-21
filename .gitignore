@@ -9,6 +9,7 @@ target/
 *.iml
 *.ipr
 *.xml
+*.class
 /.classpath
 /.project
 /.settings/
